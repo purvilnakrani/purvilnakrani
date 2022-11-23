@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Purvil Nakrani</h1>
-<h3 align="center">A passionate about learning and exploring new things..</h3>
+
+- 👨‍💻 **A passionate about learning and exploring new things..**
 
 - 🌱 I’m currently learning **java + DSA + SQL**
 
