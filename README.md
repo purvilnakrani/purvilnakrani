@@ -2,10 +2,7 @@
 
 - 👨‍💻 **A passionate about learning and exploring new things..**
 
-- 🌱 I’m currently learning **java + DSA + SQL**
-
-- 💬 Ask me anything about **oops**
-- 🤝 Seeking for help in Open Source Contributions 
+- 🌱 I’m currently learning **MERN Stack Development** 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/purvil-nakrani-9b678b200/)
 
